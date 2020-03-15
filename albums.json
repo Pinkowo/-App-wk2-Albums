@@ -1,0 +1,37 @@
+[
+    {
+        "title":"魚",
+        "artist":"西瓜",
+        "url":"https://www.youtube.com/watch?v=zrOeIRbMH_I",
+        "image":"https://lh3.googleusercontent.com/proxy/IUBlk2cGPAchZDSEri2Xd9Op1QaGVFYdtsqUUXOuMZ8qsEL0bNw4C2JvEnqTMqmWEuJgx4XeTPCZhT6xFYpcWtoL_y-me5UeA14vsZeGpwqNIqfePqm6",
+        "video_image":"https://i.ytimg.com/vi/zrOeIRbMH_I/hqdefault.jpg"
+    },
+    {
+        "title":"普通disco",
+        "artist":"三無",
+        "url":"https://www.youtube.com/watch?v=BGYWwIMs5xU",
+        "image":"https://i0.wp.com/5b0988e595225.cdn.sohucs.com/images/20180626/c447f33de750452aa5ddb76911abb017.jpeg?w",
+        "video_image":"https://img.moegirl.org/common/thumb/3/3b/%E6%99%AE%E9%80%9A%E7%9A%84disco_%E5%B0%81%E9%9D%A2.jpg/1200px-%E6%99%AE%E9%80%9A%E7%9A%84disco_%E5%B0%81%E9%9D%A2.jpg"
+    },
+    {
+        "title":"告別",
+        "artist":"小千",
+        "url":"https://www.youtube.com/watch?v=o0xTfbVeN9g",
+        "image":"https://lh3.googleusercontent.com/proxy/tss7CweBagITD44agbhD9GDK7LTxPqaRa_V6bGlv4CYaCZuqzQhQdiXI_5pTx4nCDweNjvOkz0_7KEtHaZzOuPMPIx5EAUEfcR1R0iETqUvSkGfsjLC6GV8",
+        "video_image":"https://i.ytimg.com/vi/o0xTfbVeN9g/sddefault.jpg"
+    },
+    {
+        "title":"燃點",
+        "artist":"胡夏",
+        "url":"https://www.youtube.com/watch?v=LEJmYlRWBvg",
+        "image":"https://img.mymusic.net.tw/mms/singer/517/26517s.jpg",
+        "video_image":"https://i.kfs.io/album/global/320599,1v1/fit/500x500.jpg"
+    },
+    {
+        "title":"被遺忘的人",
+        "artist":"歐陽朵",
+        "url":"https://www.youtube.com/watch?v=lrCYyMZYVgU&pbjreload=10",
+        "image":"https://www.91pu.com.tw/uploads/180131/24196-1P1311I939422.jpg",
+        "video_image":"https://i.ytimg.com/vi/lrCYyMZYVgU/maxresdefault.jpg"
+    }
+]
